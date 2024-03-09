@@ -31,16 +31,16 @@
     "react-hot-loader": "^1.2.7",
     "standard": "^5.1.0",
     "webpack": "^1.9.6",
-    "webpack-dev-server": "^1.8.2"
+    "webpack-dev-server": "^5.0.2"
   },
   "dependencies": {
     "colorblendjs": "0.0.1",
     "jsonp": "^0.2.0",
-    "lodash": "^3.10.0",
+    "lodash": "^4.17.21",
     "randomcolor": "^0.4.0",
-    "react": "^0.13.0",
+    "react": "^18.2.0",
     "react-color": "^1.0.5",
-    "superagent": "^1.3.0",
+    "superagent": "^8.1.2",
     "superagent-jsonp": "0.0.5",
     "tinycolor2": "^1.1.2"
   }
